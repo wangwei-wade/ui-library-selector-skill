@@ -285,7 +285,7 @@ npx skills add ./ui-library-selector -g
 从 GitHub 仓库安装：
 
 ```bash
-npx skills add 15356987527a-droid/ui-library-selector-skill
+npx skills add wangwei-wade/ui-library-selector-skill
 ```
 
 当前仓库为私有仓库，安装端需要先取得该 GitHub 仓库的读取权限。
