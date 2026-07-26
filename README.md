@@ -282,11 +282,13 @@ npx skills add ./ui-library-selector
 npx skills add ./ui-library-selector -g
 ```
 
-发布到 GitHub 后，把路径替换成真实仓库地址：
+从 GitHub 仓库安装：
 
 ```bash
-npx skills add <owner>/ui-library-selector-skill
+npx skills add 15356987527a-droid/ui-library-selector-skill
 ```
+
+当前仓库为私有仓库，安装端需要先取得该 GitHub 仓库的读取权限。
 
 也可以手工复制到兼容客户端支持的位置。
 
